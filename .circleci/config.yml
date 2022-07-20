@@ -31,6 +31,7 @@ jobs:
           pkg-manager: npm
       - run:
           name: Run tests
+          no_output_timeout: 10m
           command: npm run cy:demo-bs
 
 workflows:
