@@ -1,0 +1,15 @@
+[
+    {
+        "name": "English",
+        "mainMessage": "Workspace solutions",
+        "dedicatedDeskMessage": "Dedicated Desk",
+        "code": "/en-GB"
+    },
+    {
+        "name": "Français",
+        "mainMessage": "Solutions d'espaces de travail",
+        "dedicatedDeskMessage": "Poste de travail attribué",
+        "code": "/fr-FR"
+    } 
+
+]

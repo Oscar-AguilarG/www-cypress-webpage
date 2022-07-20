@@ -1,0 +1,22 @@
+{
+  "name": "cypress-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --spec 'cypress/integration/search-page-tests.*'",
+    "cy:homepage": "cypress run --browser chrome --spec 'cypress/integration/homepage.spec.js'",
+    "cy:demo": "cypress run --browser chrome --env grepTags=@DemoSuite",
+    "cypress:browserstack": "browserstack-cypress run --sync --spec 'cypress/integration/search-page-tests.*'",
+    "cy:demo-bs": "browserstack-cypress run --sync --env grepTags=@DemoSuite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserstack-cypress-cli": "^1.16.0",
+    "cypress": "^9.7.0",
+    "cypress-grep": "^2.14.0"
+  }
+}

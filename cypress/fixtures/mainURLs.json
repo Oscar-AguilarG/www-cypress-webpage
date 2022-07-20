@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Verify Home Page URL",
+    "url": "/"
+  },
+  {
+    "name": "Verify Search page URL",
+    "url": "/search"
+  },
+  {
+    "name": "Verify Solutions page URL",
+    "url": "/solutions"
+  },
+  {
+    "name": "Verify Enterprice page URL",
+    "url": "/enterprise"
+  },
+  {
+    "name": "Verify Ideas page URL",
+    "url": "/ideas"
+  },
+  {
+    "name": "Verify Contac-Us page URL",
+    "url": "/contact-us"
+  },
+  {
+    "name": "Verify Dedicated desk solution page URL",
+    "url": "/solutions/dedicated-desk"
+  },
+  {
+    "name": "Verify Office Suite solution page URL",
+    "url": "/solutions/office-suite"
+  },
+  {
+    "name": "Verify Full Flor Office solution page URL",
+    "url": "/solutions/full-floor-office"
+  },
+  {
+    "name": "Verify WeWork All Access solution page URL",
+    "url": "/solutions/wework-all-access"
+  },
+  {
+    "name": "Verify Events solution page URL",
+    "url": "/solutions/events"
+  },
+  {
+    "name": "Verify Contac-Us Enterprice page URL",
+    "url": "/enterprise#contact-us"
+  },
+  {
+    "name": "Verify Standar Office solution page URL",
+    "url": "/solutions/standard-office"
+  }
+]
+

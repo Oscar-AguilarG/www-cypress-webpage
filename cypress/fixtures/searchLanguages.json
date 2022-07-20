@@ -1,0 +1,25 @@
+[
+    {
+        "name": "English",
+        "code": "",
+        "workspace_type": "Workspace type",
+        "move_in": "Move-in",
+        "filter_message": "Tell us your",
+        "building_count": "Viewing 4 WeWork buildings.",
+        "get_in_touch_container": "Still don't see what you're looking for?",
+        "get_in_touch_button": "Get in touch",
+        "city_code":"?slug=houston--TX"
+    },
+    {
+        "name": "Spanish",
+        "code": "/es-LA",
+        "workspace_type": "Tipo de espacio de trabajo",
+        "move_in": "Mudarse",
+        "filter_message": "Dinos tu",
+        "building_count": "Viendo 4 edificios de WeWork.",
+        "get_in_touch_container": "¿Aún no encuentras lo que buscas?",
+        "get_in_touch_button": "Ponte en contacto",
+        "city_code":"?slug=houston--TX"
+    }
+
+]

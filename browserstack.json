@@ -1,0 +1,32 @@
+{
+    "browsers": [
+        
+        {
+            "browser": "chrome",
+            "os": "OS X Catalina",
+            "versions": [
+                "latest"
+            ]
+        }
+    ],
+    "run_settings": {
+        "cypress_config_file": "./cypress.json",
+        "project_name": "wwww-automation-cypress",
+        "build_name": "wework.com daily check",
+        "exclude": [],
+        "parallels": "4",
+        "npm_dependencies": {
+            "cypress-grep": "^2.14.0"
+        },
+        "package_config_options": {},
+        "headless": true
+    },
+    "connection_settings": {
+        "local": false,
+        "local_identifier": null,
+        "local_mode": null,
+        "local_config_file": null
+    },
+    "disable_usage_reporting": false
+    
+}

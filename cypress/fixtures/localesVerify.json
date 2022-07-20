@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nederlands",
+        "code": "/nl-NL",
+        "page_title": "WeWork | Kantoorruimte en werkplekoplossingen"
+    },
+    {
+        "name": "Deutsch",
+        "code": "/de-DE",
+        "page_title": "WeWork | Lösungen für Büroräume und Arbeitsbereiche"
+    },
+    {
+        "name": "Español (Latinoamérica)",
+        "code": "/es-LA",
+        "page_title": "WeWork | Soluciones de espacios de trabajo y oficina"
+    },
+    {
+        "name": "English",
+        "code": "/",
+        "page_title": "WeWork | Office Space and Workspace Solutions"
+    }
+]

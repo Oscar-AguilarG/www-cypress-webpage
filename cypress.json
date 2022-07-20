@@ -1,0 +1,11 @@
+{
+
+    "baseUrl": "https://www.wework.com/",
+    "defaultCommandTimeout": 30000,
+    "requestTimeout": 80000,
+    "viewportWidth":1440,
+    "viewportHeight":900,
+    "env": {
+        "cookies": false
+      }
+}
