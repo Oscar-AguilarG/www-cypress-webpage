@@ -10,7 +10,7 @@
     "cy:homepage": "cypress run --browser chrome --spec 'cypress/integration/homepage.spec.js'",
     "cy:demo": "cypress run --browser chrome --env grepTags=@DemoSuite",
     "cypress:browserstack": "browserstack-cypress run --sync --spec 'cypress/integration/search-page-tests.*'",
-    "cy:demo-bs": "browserstack-cypress run --sync --env grepTags=@DemoSuite"
+    "cy:demo-bs": "browserstack-cypress run --env grepTags=@DemoSuite"
   },
   "author": "",
   "license": "ISC",
