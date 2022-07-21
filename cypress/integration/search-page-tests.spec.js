@@ -69,7 +69,7 @@ describe('search page',()=>{
 
     })
 
-    it.only('Verify Move In and Capacity filters',{tags:'@DemoSuite'}, ()=>{
+    it('Verify Move In and Capacity filters',{tags:'@DemoSuite'}, ()=>{
 
         cy.visit('https://www.wework.com/search')
         locationPage.waitForRequest('waitPageLoad')
