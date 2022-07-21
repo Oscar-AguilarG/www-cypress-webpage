@@ -34,7 +34,7 @@ describe('Verify the functionality of solutions page', () => {
   // it('Verify Load on different locale', () => {})
 LANGUAGES.forEach(language => {
   
-  describe("Verify Language Selection on solutions page", () =>{
+  describe("Verify Language Selection on solutions page",{tags:'@DemoSuite'}, () =>{
 
     beforeEach(() => {
       cy.visit('https://www.wework.com/')
