@@ -82,7 +82,7 @@ describe('HomePage All components load correctly',() => {
     homePage.findSliderHomeSection().should('be.visible')
   })
 
-  describe('Verify search workspace ', { tags:'@DemoSuite'}, () => {
+  describe('Verify search workspace ', () => {
     beforeEach(() => {
       cy.visit('/?override_treatments=homepage_refresh_phase1_test=1')
       homePage.acceptCookies()
